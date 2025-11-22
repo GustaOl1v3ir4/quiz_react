@@ -1,7 +1,7 @@
 import { useContext, useEffect } from 'react'
 import { QuizContext } from './context/quiz'
 
-import Welcome from './components/welcome'
+import Welcome from './components/Welcome'
 import Questions from './components/Questions'
 import GameOver from './components/GameOver'
 import PickCategory from './components/PickCategory'
